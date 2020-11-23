@@ -1,0 +1,29 @@
+{
+  "title":			"apps_customers_guest_customer",
+  "type":           "apps",
+  "vendor":			"Customers",
+  "is_free":   "no",
+  "is_core": "no",
+  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/62-apps-guest-customer/",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "customers, guest, create, account",
+  "install":            "includes/ClicShopping/Apps/Customers/",
+  "module_directory":   "",
+  "apps_name":          "GuestCustomer",
+  "type_module":      "Fixe",
+  "dependance":       "",
+  "description":        "This apps allow you manage the guest customer accross your admin and also to accept new guest customer in your frontoffice",
+  "image":            "ModuleInfosJson/image.png",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
