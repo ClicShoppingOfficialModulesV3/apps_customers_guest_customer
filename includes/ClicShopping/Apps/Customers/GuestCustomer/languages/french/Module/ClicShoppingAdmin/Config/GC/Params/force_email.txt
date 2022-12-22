@@ -1,0 +1,6 @@
+cfg_guest_customer_force_email_title = Forcer l'e-mail du client
+cfg_guest_customer_force_email_description = Vous permettez à un client invité existant, de passer une nouvelle commande via le formulaire client invité (recommandé : True)
+
+cfg_guest_customer_force_email_true = True
+cfg_guest_customer_force_email_false = False
+

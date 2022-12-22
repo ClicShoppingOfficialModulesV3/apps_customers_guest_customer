@@ -1,0 +1,6 @@
+module_login_mode_guest_account_title = Souhaitez-vous afficher le formulaire de création d'un compte invité ?
+module_login_mode_guest_account_description = Le compe invité ne contient pas de mot de passe et n'a pas accès à son administration
+
+heading_title_guest_account = Compte invité / rapide
+text_intro_guest_customer = Faire une commande rapide sans compte. Vous recevrez uniquement par email les informations de votre commande
+button_text_guest_customer = Ouvrir un compte invité

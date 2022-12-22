@@ -1,0 +1,21 @@
+navbar_title = Créer un compte invité
+heading_title_create_guest_account = Créer un compte invité
+
+email_subject = Bienvenue sur {{store_name}}
+email_greet = Madame Mr / Ms
+
+email_welcome_guest_checkout = Bonjour, <br /><br />
+Merci d'avoir crée un compte sur {{store_name}}. br/>
+N'hésitez pas à nous contacter is vous avez des questions<br /><br />
+
+
+admin_email_subject = Nouveau client : Compte invité sur {{store_name}}
+admin_email_text = Un nouveau client invité vient de s'enregistrer, vous trouverez les informations ci-dessous :<br />
+  nom : {{customer_name}} <br />
+  prenom : {{customer_firstame}}<br />
+  e-mail :{{customer_mail}}<br />
+
+text_password = Veuillez trouvez votre mot de passe de connexion : {{password}}<br />
+Dans votre administration, vous pourrez facilement changer votre mot de passe
+
+error_action_recorder = Erreur: Une demande a été déjà réalisée. Veuillez recommencer dans {{module_action_recorder_create_guest_account_email_minutes}} minutes.

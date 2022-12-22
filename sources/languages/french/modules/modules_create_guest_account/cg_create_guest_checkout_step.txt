@@ -1,0 +1,7 @@
+module_create_guest_account_checkout_step_title = Souhaitez-vous afficher les étapes de la commande ?
+module_create_guest_account_checkout_step_description = Afficher les étapes de la commande
+
+text_create_guest_account_checkout_step1 = Choix Expédition
+text_create_guest_account_checkout_step2 = Choix paiement
+text_create_guest_account_checkout_step3 = Résumé commande
+text_create_guest_account_checkout_step4 = Processus de payment

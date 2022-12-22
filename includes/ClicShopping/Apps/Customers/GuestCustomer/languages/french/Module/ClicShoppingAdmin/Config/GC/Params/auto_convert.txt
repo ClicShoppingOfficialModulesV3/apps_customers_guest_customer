@@ -1,0 +1,7 @@
+cfg_guest_customer_auto_convert_title = Auto convertir l'invité en client
+cfg_guest_customer_auto_convert_description = Tous les clients invités, seront converti en client normal sans le consentement du client. (Recommendé sur False)
+L'email avec le mot de passe ne sera pas envoyé.
+
+cfg_guest_customer_auto_convert_true = True
+cfg_guest_customer_auto_convert_false = False
+

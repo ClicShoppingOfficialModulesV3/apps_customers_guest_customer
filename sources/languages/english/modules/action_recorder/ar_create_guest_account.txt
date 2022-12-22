@@ -1,0 +1,2 @@
+module_action_recorder_create_guest_account_title = Create Guest Account catalog
+module_action_recorder_create_guest_account_description = Record usage of guest account creation for catalog

@@ -1,0 +1,12 @@
+module_create_guest_account_introduction_title = Do you want to enable Introduction module ?
+module_create_guest_account_introduction_description = Display a message for the customer
+
+module_create_guest_account_introduction_text_origin_login =  Create an guest account is very simple on {{store_name}} !<br /><br />
+Please, note the guest account is a special account without password, you will received only informations by email<br /><br />
+All information you provide will remain strictly private and obviously reserved. <br />
+{{store_name}} respects the existing charters Information and Freedom.
+
+module_create_guest_account_introduction_text_b2c = <span style="text-decoration: underline;">Note</span> : To open a client account, please, click on the button
+module_create_guest_account_introduction_text_b2b = <span style="text-decoration: underline;">Note</span> : To open a proofessional account, please, click on the button
+
+button_continue = Continue

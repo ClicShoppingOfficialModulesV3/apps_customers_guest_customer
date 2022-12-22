@@ -1,0 +1,11 @@
+module_checkout_success_guest_account_create_account_title = Souhaitez-vous activer le module de Récupération client Invité ?
+module_checkout_success_guest_account_create_account_description = Affiche une message afin de convertir le client invité en Client Normal ?
+
+module_checkout_success_success_guest_account_create_account_heading = <strong>Bonne nouvelle !!</strong>
+create_account_checkout_success_guest_account_create_account_body = Il n'est pas encore trop tard, cliquez sur ce lien et votre compte sera actif et vous recevrez votre mot de passe d'accès !<br /><br />
+Vous pourrez peut etre aussi bénéficié d'un coupon remise pour votre prochaine commande.<br />
+Votre session sera fermé et vous serez redirigé sur la page d'accueil du site.
+Merci de votre Confiance.<br />
+
+module_checkout_success_create_account_success_text = Veuillez cliquez sur le bouton pour procéder à la création de votre compte.
+module_checkout_success_create_account_success_button = Créer mon compte

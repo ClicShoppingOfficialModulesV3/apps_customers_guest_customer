@@ -1,0 +1,27 @@
+heading_title = Clients invité
+heading_title_edit = Code client No
+heading_title_search = Rechercher
+
+table_heading_customers_id = Référence
+table_heading_firstname = Prénom
+table_heading_lastname = Nom
+table_heading_account_created = Compte créé
+table_heading_action = Actions
+table_heading_country = Provenance
+table_heading_entry_email_validation = Email valide
+table_entry_groups_name = Groupes Clients
+table_heading_convert_to_customer = Convertir en client
+
+text_delete_intro = Etes vous s&ucirc;r de vouloir supprimer ce client ?
+text_info_heading_delete_customer = Supprimer le client
+
+icon_email = E-mail
+icon_edit_orders = Rechercher les commandes du client
+icon_edit_customers_group = Editer le groupe client
+icon_edit_new_password = Envoyer un nouveau mot de passe
+
+visitor_name = Client normal
+
+email_network = Suivez nous en temps réel sur :<br />
+email_twitter = http://www.twitter.com/
+email_facebook = http://www.facebook.com/

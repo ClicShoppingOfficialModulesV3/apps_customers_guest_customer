@@ -1,0 +1,4 @@
+heading_title = Clients invité
+module_gc_short_title = Clients invité
+
+title_menu = Clients invité

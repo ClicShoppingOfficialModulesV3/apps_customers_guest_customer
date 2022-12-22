@@ -1,0 +1,2 @@
+module_action_recorder_create_guest_account_title = Compte invité catalogue
+module_action_recorder_create_guest_account_description = Enregistre les créations de compte invité

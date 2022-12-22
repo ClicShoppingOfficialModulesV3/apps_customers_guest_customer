@@ -1,0 +1,7 @@
+module_create_guest_account_checkout_step_title = Do you want to display the step about the order process ?
+module_create_guest_account_checkout_step_description = display the step about the order process
+
+text_create_guest_account_checkout_step1 = Shipping choice
+text_create_guest_account_checkout_step2 = Payment choice
+text_create_guest_account_checkout_step3 = order summary
+text_create_guest_account_checkout_step4 = Payment process

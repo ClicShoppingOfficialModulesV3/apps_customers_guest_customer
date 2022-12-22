@@ -1,0 +1,59 @@
+{
+ "title":	"Guest customer App",
+ "app": "GuestCustomer",
+ "vendor":"Customers",
+ "version":	"1.0.1",
+ "req_core_version":	"3.0",
+ "license":	"GPL-2",
+ "authors": [
+  {
+   "name": "ClicShopping",
+   "company":	"Innov-Concept Consulting",
+   "email":	"admin@clicshopping.org",
+   "website":	"https://www.clicshopping.org"
+  }
+ ],
+ "modules": {
+  "Hooks": {
+   "Shop/AddressBook": {
+    "PreAction":	"Module\\Hooks\\Shop\\AddressBook\\PreAction"
+   },
+   "Shop/AddressBookProcess": {
+    "PreAction":	"Module\\Hooks\\Shop\\AddressBookProcess\\PreAction"
+   },
+   "Shop/Delete": {
+    "PreAction":	"Module\\Hooks\\Shop\\Delete\\PreAction"
+   },
+   "Shop/Edit": {
+    "PreAction":	"Module\\Hooks\\Shop\\Edit\\PreAction"
+   },
+   "Shop/Gdrp": {
+    "PreAction":	"Module\\Hooks\\Shop\\Gdrp\\PreAction"
+   },
+   "Shop/History": {
+    "PreAction":	"Module\\Hooks\\Shop\\History\\PreAction"
+   },
+   "Shop/HistoryInfo": {
+    "PreAction":	"Module\\Hooks\\Shop\\HistoryInfo\\PreAction"
+   },
+   "Shop/Newsletters": {
+    "PreAction":	"Module\\Hooks\\Shop\\Newsletters\\PreAction"
+   },
+   "Shop/Notifications": {
+    "PreAction":	"Module\\Hooks\\Shop\\Notifications\\PreAction"
+   },
+   "Shop/OrderConditions": {
+    "PreAction":	"Module\\Hooks\\Shop\\OrderConditions\\PreAction"
+   },
+   "Shop/OrderInvoice": {
+    "PreAction":	"Module\\Hooks\\Shop\\OrderInvoice\\PreAction"
+   }
+  }
+ },
+  "routes": {
+  "ClicShoppingAdmin":	"Sites\\ClicShoppingAdmin\\Pages\\Home",
+   "Shop": {
+    "GuestCustomer&Create": "Sites\\Shop\\Pages\\Create"
+   }
+ }
+}

@@ -1,0 +1,6 @@
+cfg_guest_customer_force_email_title = Force Customer Email
+cfg_guest_customer_force_email_description = If you use this function, you allow the customer to take another order via hte Guest Form (recommended : True)
+
+cfg_guest_customer_force_email_true = True
+cfg_guest_customer_force_email_false = False
+

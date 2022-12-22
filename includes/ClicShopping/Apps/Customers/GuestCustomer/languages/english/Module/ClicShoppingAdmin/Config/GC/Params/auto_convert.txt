@@ -1,0 +1,6 @@
+cfg_guest_customer_auto_convert_title = Convert the Guest in Customer
+cfg_guest_customer_auto_convert_description = This function auto convert the guest in customer without the customer aggreement. (Recommended in False)<br />
+Email with password is not sent.
+cfg_guest_customer_auto_convert_true = True
+cfg_guest_customer_auto_convert_false = False
+

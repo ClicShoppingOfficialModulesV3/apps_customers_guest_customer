@@ -1,0 +1,31 @@
+heading_title = Customers Guest
+heading_title_edit = Customer No
+heading_title_search = Search
+
+table_heading_customers_id = Customers No
+table_heading_firstname = First Name
+table_heading_lastname = Last Name
+table_heading_account_created = Account Created
+table_heading_action = Actions
+table_heading_country = From
+table_heading_entry_email_validation = Email valide
+table_entry_groups_name = Customers Group
+table_heading_convert_to_customer = Convert to customer
+
+text_date_account_created = Account Created:
+text_date_account_last_modified = Last Modified:
+
+text_delete_intro = Are you sure you want to delete this customer?
+text_info_heading_delete_customer = Delete Customer
+
+icon_email = E-mail
+
+icon_edit_orders = Search client Orders
+icon_edit_customers_group = Edit customer group
+icon_edit_new_password = To send a new password
+
+visitor_name = Normal customer
+
+email_network = Follow us in real time on  :<br />
+email_twitter = http://www.twitter.com/
+email_facebook = http://www.facebook.com/

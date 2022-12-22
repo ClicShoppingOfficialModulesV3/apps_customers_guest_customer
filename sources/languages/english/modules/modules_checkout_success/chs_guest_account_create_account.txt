@@ -1,0 +1,11 @@
+module_checkout_success_guest_account_create_account_title = Do you want to activate the Guest Client module ?
+module_checkout_success_guest_account_create_account_description = Display a message to convert the guest client to Normal Client ?
+
+module_checkout_success_success_guest_account_create_account_heading = <strong>Good News !!</strong>
+create_account_checkout_success_guest_account_create_account_body = it's not too late yet, click on the button below and your account will be active. You will receive your access password by email!<br /> <br />
+You will received, maybe, a discount coupon for your next order
+Your session will be closed and you will be redirected to the homepage of the site.
+Thank you for your confidence.
+
+module_checkout_success_create_account_success_text = Please click ont the button to create your account.
+module_checkout_success_create_account_success_button = Create my account

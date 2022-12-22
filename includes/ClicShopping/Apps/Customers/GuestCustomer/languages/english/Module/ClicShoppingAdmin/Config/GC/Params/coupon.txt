@@ -1,0 +1,5 @@
+cfg_guest_customer_coupon_title = Coupon
+cfg_guest_customer_coupon_description = Note : You must have the Discount Coupon installed to use this option (only for B2C customer)
+
+cfg_guest_customer_coupon_true = True
+cfg_guest_customer_coupon_false = False

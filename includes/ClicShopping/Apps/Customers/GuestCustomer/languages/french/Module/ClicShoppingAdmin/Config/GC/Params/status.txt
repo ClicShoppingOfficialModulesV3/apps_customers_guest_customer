@@ -1,0 +1,5 @@
+cfg_guest_customer_status_title = Statut
+cfg_guest_customer_status_description = Souhaitez vous activer ce module à votre boutique ?
+
+cfg_guest_customer_status_true = True
+cfg_guest_customer_status_false = False

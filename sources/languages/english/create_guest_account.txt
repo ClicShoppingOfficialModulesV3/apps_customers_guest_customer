@@ -1,0 +1,20 @@
+navbar_title = Create a guest account
+heading_title_create_guest_account = Create guest account
+
+email_subject = Welcome to {{store_name}}
+email_greet = Dear Mr / Ms
+
+email_welcome_guest_checkout = Hello, <br /><br />
+Thank you to create an account on {{store_name}}. <br />
+Do no hesitate to contact us if you have some questions<br /><br />
+
+admin_email_subject = New guest customer via guest account registrer on {{store_name}}
+admin_email_text = New client guest account is registered, below user details:<br />
+name : {{customer_name}} <br />
+surname :{{customer_firstame}}<br />
+e-mail : {{customer_mail}}<br />
+
+text_password = Please, your password to access at your administration : {{password}}<br />
+Everytime in your account, you can change your password.<br /><br />
+
+error_action_recorder = Error: An enquiry has already been sent. Please try again in {{module_action_recorder_create_guest_account_email_minutes}} minutes.

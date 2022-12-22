@@ -1,0 +1,40 @@
+heading_title = Guest Customer
+module_gc_title = Guest Customer
+module_gc_short_title = Guest Customer
+
+text_guest_customer =  Guest Customer
+text_configure =  configure App Module
+
+text_intro = This app allow you to manage the customers support in your administratoin. <br /><br />
+- Activate this module and activate the module Guest Customer fields located in the Customers menu
+
+module_gc_introduction = The install process create the database settings for this module and the access menu
+
+button_back = Back
+button_install_title = Install
+button_configure = Configure
+button_save = Save
+button_dialog_uninstall =  Uninstall
+button_uninstall =  Uninstall
+button_delete = Delete
+button_cancel = Cancel
+button_insert = Insert
+button_back = Back
+button_reset = Reset
+button_update = Update
+button_archive = Achive
+button_guest_customer = Guest Customer
+button_send =  Send
+
+dialog_uninstall_title = Uninstall
+dialog_uninstall_body = Do you want to install this App ?
+dialog_uninstall_title = Uninstall Module?
+dialog_uninstall_body = Are you sure you want to uninstall this module?
+
+alert_module_install_success = Module has been successfully installed.
+alert_module_uninstall_success = Module has been successfully uninstalled.
+alert_cfg_saved_success = Configuration parameters have been successfully saved.
+
+text_result_page = Page {{listing_from}} of {{listing_total}}
+text_display_number_of_link = Display <strong>{{listing_from}}</strong> to <strong>{{listing_to}}</strong> (on <strong>{{listing_total}}</strong>)
+

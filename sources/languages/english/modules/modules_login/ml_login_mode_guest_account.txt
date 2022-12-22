@@ -1,0 +1,6 @@
+module_login_mode_guest_account_title = Do you want to display a form Guest Checkout ?
+module_login_mode_guest_account_description = Guest checkout does'nt have password and the ustomer does'nt access to their administration
+
+heading_title_guest_account = Guest Account
+text_intro_guest_customer = Create quickly an order without password. You wil receive only by email the information about your order
+button_text_guest_customer = Open Guest Checkout
